@@ -3,7 +3,7 @@ Application Web de Gestion d’une École Primaire
 Conçu et développé avec Laravel + MySQL
 
 Ce projet a pour but de fournir une application web  permettant de gérer efficacement tous les aspects de la vie scolaire d’un établissement primaire bilingue (français / anglais/bilingue), incluant la gestion des élèves, des enseignants, des paiements, des bulletins, et des utilisateurs avec rôles.
-🛠️ Technologies utilisées
+Technologies utilisées
 Technologie	Description
 Laravel	Framework backend PHP (MVC)
 MySQL	Base de données relationnelle
